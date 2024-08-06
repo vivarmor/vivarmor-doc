@@ -1,19 +1,15 @@
-Welcome to Lumache's documentation!
+Bienvenue sur la documentation SIG de VivArmor Nature!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**LA doc des géobidouilleurs de VivArmor** 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Cette doc a pour vocation de servir de guide pratique pour tous les usagers de Qgis/Serena et autres outils en lien avec la géomatique. Elle est uniquement centrée sur les besoin internes à notre association et est donc très parcellaire! N'hésitez pas à faire des demandes d'ajout de questions à votre géomaticien·ne préféré·e!
 
 .. note::
 
-   This project is under active development.
+   CE PROJET EST EN COURS DE DEVELOPPEMENT
 
-Contents
+Contenu
 --------
 
 .. toctree::
